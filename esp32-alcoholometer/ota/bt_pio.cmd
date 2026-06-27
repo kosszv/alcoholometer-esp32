@@ -1,0 +1,1 @@
+%USERPROFILE%\.platformio\packages\toolchain-xtensa-esp32\bin\xtensa-esp32-elf-addr2line.exe -pfiaC -e c:\PlatformIO\esp32-alcoholometer\.pio\build\esp32dev\firmware.elf %*

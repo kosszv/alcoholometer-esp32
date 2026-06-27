@@ -1,0 +1,46 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\libs"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"mutex": "cpp",
+			"type_traits": "cpp",
+			"*.inc": "cpp",
+			"*.ipp": "cpp",
+			"array": "cpp",
+			"string": "cpp",
+			"string_view": "cpp",
+			"chrono": "cpp",
+			"functional": "cpp",
+			"istream": "cpp",
+			"ostream": "cpp",
+			"ratio": "cpp",
+			"tuple": "cpp",
+			"utility": "cpp",
+			"system_error": "cpp",
+			"complex": "cpp",
+			"typeinfo": "cpp",
+			"atomic": "cpp",
+			"deque": "cpp",
+			"forward_list": "cpp",
+			"ios": "cpp",
+			"list": "cpp",
+			"vector": "cpp",
+			"xhash": "cpp",
+			"xiosbase": "cpp",
+			"xstring": "cpp",
+			"xtree": "cpp",
+			"*.tcc": "cpp",
+			"unordered_map": "cpp",
+			"cmath": "cpp",
+			"cstdlib": "cpp",
+			"ranges": "cpp"
+		}
+	}
+}
